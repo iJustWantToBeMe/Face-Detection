@@ -4,9 +4,7 @@ Built in React.js utilizing the Clarifai API to identify faces within an image.
 
 ![Image of face](https://github.com/iJustWantToBeMe/Face-Detection/blob/main/example/example_face.png)
 
-
-
-## Tech. Used
+## Tech Stack
 
   ### FrontEnd:
   * `HTML5`
