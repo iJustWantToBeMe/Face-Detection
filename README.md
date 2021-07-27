@@ -12,6 +12,5 @@ Built in React.js utilizing the Clarifai API to identify faces within an image.
   * `React.js`
   
 First clone this repository then in the project directory, you can run:
-1. Clone this repository
-2. #### `npm install`
-3. #### `npm start`
+1. #### `npm install`
+2. #### `npm start`
