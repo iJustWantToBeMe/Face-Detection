@@ -1,0 +1,10 @@
+.Tilt {
+	background: linear-gradient(to left, #0cebeb, #20e3b2, #29ffc6);
+}
+
+/* For responsive images */
+/* img {
+    object-fit: cover;
+    width: 250px;
+    height: 250px;
+} */
