@@ -6,7 +6,10 @@ Built in React.js utilizing the Clarifai API to identify faces within an image.
 
 
 
-## Available Scripts
+## Tech. Used
+
+  ### FrontEnd:
+  `React`
 
 In the project directory, you can run:
 
