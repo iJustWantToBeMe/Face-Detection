@@ -5,7 +5,9 @@ const ImageLinkForm = ({ onInputChange, onImgSubmit }) => {
 	return (
 		<div>
 			<p className='f5 b'>
-				{'Sumbit your link below and it will detect the faces in your picture!'}
+				{
+					'Sumbit your image link below and it will detect the faces in your picture!'
+				}
 			</p>
 			<div className='center'>
 				<div className='form center pa4 br3 shadow-5'>
