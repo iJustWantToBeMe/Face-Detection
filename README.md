@@ -9,9 +9,9 @@ Built in React.js utilizing the Clarifai API to identify faces within an image.
 ## Tech. Used
 
   ### FrontEnd:
-  *`HTML5`
-  *`tachyons.css`
-  *`React.js`
+  `HTML5`
+  `tachyons.css`
+  `React.js`
   
 In the project directory, you can run:
 1. Clone the repository
