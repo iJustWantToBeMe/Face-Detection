@@ -12,7 +12,9 @@ Face detection is a React.js app capable of detecting **multiple** faces with an
  
   ### BackEnd:
   Please refer [here](https://github.com/iJustWantToBeMe/Face-Detection-API) for more info.
-  
+ 
+## Get started
+
 First clone this repository then in the project directory, you can run:
 1. #### `npm install`
 2. #### `npm start`
