@@ -1,7 +1,6 @@
 ## Face-Detection
 ![Image of example](https://github.com/iJustWantToBeMe/Face-Detection/blob/main/example/example_face.png)
-
-Face detection is a React.js app capable of detecting **multiple** faces with an image by utilizing the Clarifai API.
+Face detection is a React.js app capable of detecting **multiple** faces with an image by utilizing the Clarifai API. You're also able to login and/or register an account. Rank increases for every successful face that is detected by the application.
 
 ## Tech Stack
 
