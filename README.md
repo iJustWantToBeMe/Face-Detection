@@ -13,7 +13,7 @@
   ### BackEnd:
   Please refer [here](https://github.com/iJustWantToBeMe/Face-Detection-API) for more info.
  
-## Get started
+## Getting started
 
 First clone this repository then in the project directory, you can run:
 1. #### `npm install`
