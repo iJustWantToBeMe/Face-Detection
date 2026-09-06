@@ -3,8 +3,8 @@
 🚧 **Status: Under Active Modernization** 
 *Currently (very slowly...) refactoring this application to upgrade from React 16 to React 19, replace the deprecated Clarifai API with the open-source Hugging Face Inference API, and modernize the component architecture.*
 
-!https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRKB0z4laSC9RaGMG-eKgPvj6PPMeJ-zE3t-opy-Qr82XWKEKUA0eskb24TaJFwxrBiWbu1UtBGYnORjS0(https://github.com/iJustWantToBeMe/Face-Detection/blob/main/example/example_face.png)
-!https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQ2xzC4KYLwO2h-NFzG0o8UQgIIab5gf5vVg5piHLh2jXJoSudJY0dhCWJI-SMO4ut8EUdolxWwA4LLfvU(https://github.com/iJustWantToBeMe/Face-Detection/blob/main/example/example_face2.png)
+!https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcQYhc-DVPgbtnXUeisJsEeg0quq6xoHwLm55itdnxAdAMnl9FaiB-SbVHqzEo3ObdM9z9T9uCgPjTZqOVs(https://github.com/iJustWantToBeMe/Face-Detection/blob/main/example/example_face.png)
+!https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTVibSQ9pGemdnJCQ65ZxC-P4xETSokRy7-UpBcA1vl0DpN50SKCApw-fszJ91NlhSwB7da81pi3Jog9EQ(https://github.com/iJustWantToBeMe/Face-Detection/blob/main/example/example_face2.png)
 
 Face detection is a full-stack web application that utilizes the [Hugging Face](https://huggingface.co/facebook/detr-resnet-50) API to detect human faces within any provided image URL and map their coordinate locations with bounding boxes. Users can securely register, log in, and track their detection entry count via a connected backend database.
 
