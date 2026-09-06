@@ -25,8 +25,8 @@ Face detection is a full-stack web application that utilizes the [Hugging Face](
 To run this project locally, clone the repository and follow these steps:
 
 1. **Install dependencies:**
-   ```bash
-   npm install
+  ```bash
+  npm install
 
 2. **Configure API Keys:**
     You will need a free API token from Hugging Face.
