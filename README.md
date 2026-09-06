@@ -1,20 +1,36 @@
 ## Face-Detection
-![Image of example](https://github.com/iJustWantToBeMe/Face-Detection/blob/main/example/example_face.png)
-![Image of example2](https://github.com/iJustWantToBeMe/Face-Detection/blob/main/example/example_face2.png)
-**Face detection is a React.js app that utilize the [Clarifai](https://www.clarifai.com/models/ai-face-detection) API to detect if an image contains human faces and  returns a coordinate locations of where those faces appear with a bounding box. You're also able to login and/or register an account. User entry count increases for every successful face that is detected by the application.**
 
-## Tech Stack
+🚧 **Status: Under Active Modernization** 
+*Currently (very slowly...) refactoring this application to upgrade from React 16 to React 19, replace the deprecated Clarifai API with the open-source Hugging Face Inference API, and modernize the component architecture.*
 
-  ### FrontEnd:
-  * `HTML5`
-  * `tachyons.css`
-  * `React.js`
- 
-  ### BackEnd:
-  Please refer [here](https://github.com/iJustWantToBeMe/Face-Detection-API) for more info.
- 
-## Getting started
+!https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRKB0z4laSC9RaGMG-eKgPvj6PPMeJ-zE3t-opy-Qr82XWKEKUA0eskb24TaJFwxrBiWbu1UtBGYnORjS0(https://github.com/iJustWantToBeMe/Face-Detection/blob/main/example/example_face.png)
+!https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQ2xzC4KYLwO2h-NFzG0o8UQgIIab5gf5vVg5piHLh2jXJoSudJY0dhCWJI-SMO4ut8EUdolxWwA4LLfvU(https://github.com/iJustWantToBeMe/Face-Detection/blob/main/example/example_face2.png)
 
-First clone this repository then in the project directory, you can run:
-1. #### `npm install`
-2. #### `npm start`
+Face detection is a full-stack web application that utilizes the [Hugging Face](https://huggingface.co/facebook/detr-resnet-50) API to detect human faces within any provided image URL and map their coordinate locations with bounding boxes. Users can securely register, log in, and track their detection entry count via a connected backend database.
+
+## 🛠 Tech Stack
+
+### Front-End:
+* `HTML5`
+* `tachyons.css` (Utility-first styling)
+* `React.js` (v19)
+
+### Back-End:
+* Node.js / Express.js
+* Please refer [here](https://github.com/iJustWantToBeMe/Face-Detection-API) for the backend repository and setup instructions.
+
+## 🚀 Getting Started
+
+To run this project locally, clone the repository and follow these steps:
+
+1. **Install dependencies:**
+   ```bash
+   npm install
+
+2. **Configure API Keys:**
+    You will need a free API token from Hugging Face.
+    Open `src/App.js` and replace `"YOUR_API_KEY_HERE"` with your Hugging Face token.
+
+3. **Start the development server:**
+  ```bash
+  npm start
