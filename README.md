@@ -1,7 +1,9 @@
 ## Face-Detection
 
-🚧 **Status: Under Active Modernization** 
-*Currently refactoring (very slowly...) this application to upgrade from React 16 to React 19, replace the deprecated Clarifai API with the open-source Hugging Face Inference API, and modernize the component architecture.*
+> [!WARNING]
+> **Work in Progress / Outdated Codebase**  
+> 🚧 **Status: Under Active Modernization**  
+> Currently refactoring (very slowly...) this application to upgrade from React 16 to React 19, replace the deprecated Clarifai API with the open-source Hugging Face Inference API, and modernize the component architecture.
 
 ![Image of example](https://github.com/CodeByVu/Face-Detection/blob/main/example/example_face.png)
 
